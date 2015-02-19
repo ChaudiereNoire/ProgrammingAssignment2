@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file is produced as the gradded materal for Assignment
+## Two.
 
 ## Write a short comment describing this function
 
