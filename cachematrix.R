@@ -1,5 +1,5 @@
 ## This file is produced as the gradded materal for Assignment
-## Two.
+## Two.  Needed to add public key and update .git/config
 
 ## Write a short comment describing this function
 
