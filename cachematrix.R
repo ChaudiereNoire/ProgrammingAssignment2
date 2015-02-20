@@ -1,5 +1,5 @@
-## This file is produced as the gradded materal for Assignment
-## Two.  Needed to add public key and update .git/config
+## This file is produced as the graded materal for Assignment
+## Two.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
